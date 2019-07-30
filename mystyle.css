@@ -1,0 +1,96 @@
+.x1{
+text-align: center;
+color: white;
+}
+.div1
+{
+width: 50%;
+background : gray;
+height : 70%;
+margin: auto;
+}
+.inp{
+
+margin-left: 10%;
+margin-top : 5%;
+height: 30%;
+width : 70%;
+float: left;
+
+}
+.btn1{
+height: 30%;
+margin-top : 5%;
+float: left;
+    
+
+
+}
+.div2{
+height:20%;
+background : pink;
+}
+.div3{
+height:80%;
+background : gray;
+}
+body{
+background: black;
+}
+.border1{
+background : white;
+height : 20px;
+margin: auto;
+padding-top: 10px;
+padding-right: 30px;
+padding-bottom: 10px;
+padding-left: 80px;
+
+}
+.test{
+width: 5%;
+margin: auto;
+
+}
+.dynDiv{
+	background : white;
+	height : 20px;
+	margin: auto;
+	padding-left:10px;
+	padding-top: 10px;
+    padding-bottom: 10px;
+	border-style : solid;
+	border-width : 1px;
+	border-color : pink;
+	
+}
+.dynDiv:after {
+  content: "";
+  display: block;
+  clear: both;
+  
+}
+
+#horDiv0
+{
+	float: left;
+	width:5%
+  
+}
+#horDiv1
+{
+	float: left;
+    width: 85%;
+}
+#horDiv2
+{
+	float: left;
+  width: 5%
+}
+#horDiv3
+{
+float: left;
+  width: 5%;
+}
+
+
